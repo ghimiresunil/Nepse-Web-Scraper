@@ -22,7 +22,11 @@ six==1.16.0
 soupsieve==2.2.1
 urllib3==1.26.6
 ```
-## Run Nepse Web Scraper
+# Run Nepse Web Scraper
 ```bash
 python nepse.py 
 ```
+
+# Result
+
+![nepse_web_scraper_result](https://user-images.githubusercontent.com/40186859/133929060-9edd9399-b834-4497-81e5-aa3f7b7f900a.png)
